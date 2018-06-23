@@ -13,6 +13,5 @@ public class SpringBoot01HelloworldApplication {
 
         // spring 应用启动起来
         SpringApplication.run(SpringBoot01HelloworldApplication.class, args);
-
     }
 }
