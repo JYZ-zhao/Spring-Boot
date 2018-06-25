@@ -1,2 +1,16 @@
 server:
   port: 8082
+
+person:
+  name: zjy
+  age: 15
+  boss: false
+  birth: 1996/09/09
+  map: {k1: v1,k2: v2}
+  list:
+    - lisi
+    - zhaoliu
+    - wangwu
+  dog:
+    name: BB
+    age: 2
